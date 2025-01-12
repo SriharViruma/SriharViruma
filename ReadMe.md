@@ -4,6 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/srihar-viruma-m/) 
+[![Leetcode](https://img.shields.io/badge/Leetcode-%23ffa116.svg?logo=linkedin&logoColor=white)](https://leetcode.com/u/sriharviruma_m/) 
 
 # 💻 Tech Stack:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
