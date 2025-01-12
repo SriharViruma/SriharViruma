@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Java
+🌱 I’m currently learning SpringBoot, Java, DSA
 
 
 ## 🌐 Socials:
